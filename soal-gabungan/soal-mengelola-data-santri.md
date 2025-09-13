@@ -22,11 +22,12 @@ Suatu hari, direktur kursus datang kepadamu dengan sebuah permintaan:
   - `nilai` (angka)  
 
 Contoh data awal:
-```js
+```
 [
   { id: 1, nama: "Ali", kelas: "JavaScript Dasar", nilai: 85 },
   { id: 2, nama: "Budi", kelas: "JavaScript Dasar", nilai: 90 }
 ]
+```
 Fitur Wajib (CRUD)
 Tambah Siswa (Create) → admin bisa menambah siswa baru.
 
