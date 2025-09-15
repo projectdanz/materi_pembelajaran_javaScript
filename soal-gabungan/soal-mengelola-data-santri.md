@@ -22,31 +22,32 @@ Suatu hari, direktur kursus datang kepadamu dengan sebuah permintaan:
   - `nilai` (angka)  
 
 Contoh data awal:
-```js
+```
 [
   { id: 1, nama: "Ali", kelas: "JavaScript Dasar", nilai: 85 },
   { id: 2, nama: "Budi", kelas: "JavaScript Dasar", nilai: 90 }
 ]
+```
 Fitur Wajib (CRUD)
-Tambah Siswa (Create) → admin bisa menambah siswa baru.
-
-Tampilkan Semua Siswa (Read) → tampilkan seluruh data dengan format rapi.
-
-Update Data Siswa (Update) → ubah data siswa berdasarkan id.
-
-Hapus Siswa (Delete) → hapus siswa berdasarkan id.
+> Tambah Siswa (Create) → admin bisa menambah siswa baru.
+>
+> Tampilkan Semua Siswa (Read) → tampilkan seluruh data dengan format rapi.
+> 
+> Update Data Siswa (Update) → ubah data siswa berdasarkan id.
+>
+> Hapus Siswa (Delete) → hapus siswa berdasarkan id.
 
 Fitur Tambahan
-Cari siswa berdasarkan nama.
-
-Hitung rata-rata nilai semua siswa.
-
-Saat menampilkan data, gunakan object destructuring.
+> Cari siswa berdasarkan nama.
+>
+> Hitung rata-rata nilai semua siswa.
+>
+> Saat menampilkan data, gunakan object destructuring.
 
 Struktur Program (Modularisasi)
-data.js → menyimpan array siswa.
-
-functions.js → berisi semua function (CRUD + tambahan).
-
-app.js → file utama untuk menjalankan aplikasi.
+> data.js → menyimpan array siswa.
+>
+> functions.js → berisi semua function (CRUD + tambahan).
+>
+> app.js → file utama untuk menjalankan aplikasi.
 
