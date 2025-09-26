@@ -32,7 +32,7 @@ Buat sebuah **website yang bermanfaat** (pilih salah satu: aplikasi cuaca, aplik
 
 ## 2. Daftar Fitur Wajib
 
-Setiap tim/siswa harus mengimplementasikan semua item ini:
+Setiap siswa harus mengimplementasikan semua item ini:
 
 1. **Fetch API**
 
@@ -193,10 +193,9 @@ import { renderList, showError } from './modules/ui.js';
 
 Siswa wajib menyerahkan:
 
-* Link GitHub repository (public/private dengan akses) **atau** file zip.
+* Link GitHub repository (public/private dengan akses).
 * README.md yang berisi: deskripsi singkat, cara menjalankan, daftar fitur, API yang dipakai (dan jika perlu: API key).
 * Tanya jawab singkat (3–5 poin) apa tantangan yang ditemui dan bagaimana menyelesaikannya.
-* Demo live (opsional) — GitHub Pages atau Netlify.
 
 ---
 
@@ -236,12 +235,12 @@ Siswa wajib menyerahkan:
 
 ---
 
-## 12. Persyaratan Tambahan — Presentasi & Deploy (ditambahkan)
+## 12. Persyaratan Tambahan — Presentasi & Deploy 
 
 ### Presentasi
 
-* Setelah selesai coding, tiap siswa/kelompok wajib membuat presentasi singkat (slide) yang menjelaskan web yang dibuat.
-* Durasi presentasi: **5–7 menit** (saran). Jumlah slide: **~6–10 slide**.
+* Setelah selesai coding, tiap siswa wajib membuat presentasi singkat (slide) yang menjelaskan web yang dibuat.
+* Durasi presentasi: **5–7 menit** . Jumlah slide: **~6–10 slide**.
 * Isi wajib slide:
 
   1. Judul & nama peserta
@@ -341,4 +340,3 @@ Siswa wajib menyerahkan (link / file):
 
 ---
 
-Jika Anda ingin saya juga membuat **starter repo** atau **template slide (PPTX/Google Slides)** sekarang, beri tahu — saya bisa siapkan starter file yang bisa diunduh.
