@@ -106,7 +106,7 @@ localStorage/sessionStorage, dll.**) Minimal **2 halaman** (misalnya
 Siswa wajib menyerahkan: - Link GitHub repository - Link Vercel
 (Production URL) - File presentasi (PDF / PPTX) atau link Google
 Slides - README.md dengan deskripsi, fitur, cara menjalankan, dan cara
-deploy - Catatan tantangan & solusinya (3--5 poin)
+deploy - Catatan tantangan & solusinya (3--5 poin) - File video presentasi
 
 ## 7. Outline Slide Presentasi (6--8 slide)
 
